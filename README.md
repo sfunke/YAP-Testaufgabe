@@ -62,4 +62,4 @@ After the Client project has been built, and assuming the Server is running unde
                             
 `gradlew test`
 
-You can then visit the generated Test-Report-HTML under `build/reports/tests/index.html`
+You can then visit the generated Test-Report-HTML under `build/reports/tests/test/index.html`
